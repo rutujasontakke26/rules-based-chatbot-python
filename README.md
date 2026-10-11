@@ -1,5 +1,5 @@
 # Rule-Based Chatbot in python 🤖
-It is a simple command-line chatbot built with Python using 'if-elif' logic. It was made as a mini project to practice conditional statements, loops, and string handling. No machine learning is used to make this.
+It is a simple command-line chatbot built with Python using 'if-elif' logic. It was made as a mini project for my internship to practice conditional statements, loops, and string handling. No machine learning is used to make this.
 
 ## Features of the Chatbot
 - Responds to greetings like hi, hello, hey

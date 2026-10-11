@@ -28,7 +28,7 @@ Bot: Goodbye! See you next time.
 ## How to Run
 
 1. Install Python 3 and Jupyter Notebook (or JupyterLab).
-2. Download `Chatbotd.ipynb` from this repository.
+2. Download `rule-based-chatbot.ipynb` from this repository.
 3. Open it in Jupyter and run the cell.
 4. Type your messages next to the `you:` prompt.
 
